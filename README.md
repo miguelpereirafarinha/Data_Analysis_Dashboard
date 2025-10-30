@@ -6,4 +6,4 @@ Once the dataset was properly structured, I dedicated special attention to enhan
 
 
 
-This project was created entirely using Power BI Desktop, and I included two examples showing the visual transformation — before and after — to highlight the improvement in layout and data storytelling.
+This project was created entirely using Power BI Desktop, and I included two examples showing the visual transformation — "old" and "new" — to highlight the improvement in layout and data storytelling.
